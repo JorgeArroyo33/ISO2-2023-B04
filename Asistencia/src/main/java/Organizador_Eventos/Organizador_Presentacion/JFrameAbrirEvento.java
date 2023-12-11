@@ -1,4 +1,4 @@
-package Abrir_Evento.Organizador.Organizador_Eventos.Organizador_Presentacion;
+package Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Presentacion;
 
 public class JFrameAbrirEvento {
 }

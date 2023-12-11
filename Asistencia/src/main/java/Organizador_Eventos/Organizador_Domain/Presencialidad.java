@@ -1,4 +1,4 @@
-package Abrir_Evento.Organizador.Organizador_Eventos.Organizador_Domain;
+package Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Domain;
 
 public enum Presencialidad {
 	Presencial_Geolocalizar,
