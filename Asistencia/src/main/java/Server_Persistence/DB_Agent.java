@@ -1,4 +1,4 @@
-package Inicio_Sesión.Servidor.Server_Persistence;
+package Gestionar_Eventos.Servidor.Server_Eventos.Server_Persistence;
 
 public class DB_Agent {
 
