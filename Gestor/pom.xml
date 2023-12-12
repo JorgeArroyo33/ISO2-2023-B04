@@ -52,10 +52,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
    <modules>
     <module>Gestor_Cursos</module>
   </modules>
-  
-  
 </project>
