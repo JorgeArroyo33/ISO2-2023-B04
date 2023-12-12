@@ -1,5 +1,6 @@
 package Gestor.Gestor_Cursos.Gestor_Domain;
 
+
 public class Curso_Control {
 
 	/**
