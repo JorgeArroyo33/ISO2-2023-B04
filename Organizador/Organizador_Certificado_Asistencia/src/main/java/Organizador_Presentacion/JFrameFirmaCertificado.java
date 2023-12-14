@@ -1,0 +1,4 @@
+package Organizador.Organizador_Certificado_Asistencia.Organizador_Presentacion;
+
+public class JFrameFirmaCertificado {
+}
