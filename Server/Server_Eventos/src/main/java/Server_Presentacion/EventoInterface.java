@@ -1,7 +1,7 @@
-package Abrir_Evento.Servidor.Server_Eventos.Server_Presentacion;
+package Gestionar_Eventos.Servidor.Server_Eventos.Server_Presentacion;
 
-import Abrir_Evento.Servidor.Server_Eventos.Server_Domain.*;
-import Abrir_Evento.Organizador.Organizador_Eventos.Organizador_Domain.*;
+import Gestionar_Eventos.Servidor.Server_Eventos.Server_Domain.*;
+import Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Domain.*;
 
 public interface EventoInterface {
 

@@ -1,4 +1,4 @@
-package Abrir_Evento.Servidor.Server_Eventos.Server_Domain;
+package Gestionar_Eventos.Servidor.Server_Eventos.Server_Domain;
 
 public class Evento_Divulgativo extends Evento {
 
