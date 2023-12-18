@@ -31,4 +31,14 @@ public class Asistencia_Control {
 		throw new UnsupportedOperationException();
 	}
 
+	/**
+	 * 
+	 * @param idEvento
+	 * @param loginAlumno
+	 */
+	public void solicitar_certificado(String idEvento, String loginAlumno) {
+		// TODO - implement Asistencia_Control.solicitar_certificado
+		throw new UnsupportedOperationException();
+	}
+
 }
