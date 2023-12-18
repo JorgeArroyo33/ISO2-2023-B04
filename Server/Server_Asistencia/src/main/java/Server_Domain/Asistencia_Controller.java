@@ -6,8 +6,8 @@ public class Asistencia_Controller {
 	 * 
 	 * @param idEvento
 	 */
-	public Certificado solicitar_certificado(String idEvento) {
-		// TODO - implement Asistencia_Controller.solicitar_certificado
+	public Certificado enviar_certificado_organizador(String idEvento) {
+		// TODO - implement Asistencia_Controller.enviar_certificado_organizador
 		throw new UnsupportedOperationException();
 	}
 
@@ -46,6 +46,25 @@ public class Asistencia_Controller {
 	 */
 	public void confirmar_asistencia_numero(String loginAsistente, int numero) {
 		// TODO - implement Asistencia_Controller.confirmar_asistencia_numero
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param idEvento
+	 * @param loginAlumno
+	 */
+	public void enviar_certificado_asistente(String idEvento, String loginAlumno) {
+		// TODO - implement Asistencia_Controller.enviar_certificado_asistente
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param idCertificado
+	 */
+	public void confirmar_llegada_correcta_certificado(String idCertificado) {
+		// TODO - implement Asistencia_Controller.confirmar_llegada_correcta_certificado
 		throw new UnsupportedOperationException();
 	}
 

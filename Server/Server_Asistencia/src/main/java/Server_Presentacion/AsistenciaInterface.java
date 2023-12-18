@@ -6,8 +6,8 @@ public class AsistenciaInterface {
 	 * 
 	 * @param idEvento
 	 */
-	public Certificado solicitar_certificado(String idEvento) {
-		// TODO - implement AsistenciaInterface.solicitar_certificado
+	public Certificado enviar_certificado_organizador(String idEvento) {
+		// TODO - implement AsistenciaInterface.enviar_certificado_organizador
 		throw new UnsupportedOperationException();
 	}
 
@@ -37,6 +37,16 @@ public class AsistenciaInterface {
 	 */
 	public void confirmar_asistencia_numero(String loginAsistente, int numero) {
 		// TODO - implement AsistenciaInterface.confirmar_asistencia_numero
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param idEvento
+	 * @param loginAlumno
+	 */
+	public void enviar_certificado_asistente(String idEvento, String loginAlumno) {
+		// TODO - implement AsistenciaInterface.enviar_certificado_asistente
 		throw new UnsupportedOperationException();
 	}
 
