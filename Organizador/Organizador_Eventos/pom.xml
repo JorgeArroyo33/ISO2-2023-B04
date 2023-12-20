@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>Organizador</artifactId>
+    <groupId>ISO-2023-B04</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
 
   <groupId>ISO-2023-B04</groupId>
-  <artifactId>Organizador</artifactId>
+  <artifactId>Organizador_Eventos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>Organizador</name>
+  <name>Organizador_Eventos</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -52,9 +57,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-	  <module>Organizador_Certificado_Asistencia</module>
-	  <module>Organizador_Eventos</module>
-	  <module>Organizador_Encuestas_Calidad</module> 
-  </modules>
 </project>
