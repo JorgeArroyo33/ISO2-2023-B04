@@ -1,39 +1,38 @@
-package Gestionar_Eventos.Servidor.Server_Eventos.Server_Domain;
+package Servidor.Server_Eventos.Server_Domain;
 
-import Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Domain.*;
-import Inicio_Sesión.Servidor.Server_Domain.*;
+import Organizador.Organizador_Eventos.Organizador_Domain.*;
 
 public class Event_Controller {
 
 	/**
 	 * 
-	 * @param organizador
+	 * @param loginOrganizador
 	 * @param presencialidad
 	 * @param ubicacion
 	 * @param fecha
 	 */
-	public void open_event(Organizador_Evento organizador, Presencialidad presencialidad, String ubicacion, Date fecha) {
+	public void open_event(String loginOrganizador, Presencialidad presencialidad, String ubicacion, Date fecha) {
 		// TODO - implement Event_Controller.open_event
 		throw new UnsupportedOperationException();
 	}
 
 	/**
 	 * 
-	 * @param organizador
+	 * @param loginOrganizador
 	 * @param presencialidad
 	 * @param ubicacion
 	 * @param fecha
 	 */
-	private void open_event_presencial(Organizador_Evento organizador, Presencialidad presencialidad, String ubicacion, Date fecha) {
+	private void open_event_presencial(String loginOrganizador, Presencialidad presencialidad, String ubicacion, Date fecha) {
 		// TODO - implement Event_Controller.open_event_presencial
 		throw new UnsupportedOperationException();
 	}
 
 	/**
 	 * 
-	 * @param organizador
+	 * @param loginOrganizador
 	 */
-	private String open_event_online(Organizador_Evento organizador) {
+	private String open_event_online(String loginOrganizador) {
 		// TODO - implement Event_Controller.open_event_online
 		throw new UnsupportedOperationException();
 	}
@@ -86,9 +85,9 @@ public class Event_Controller {
 
 	/**
 	 * 
-	 * @param organizador
+	 * @param loginOrganizador
 	 */
-	public Evento[] get_events(Usuario organizador) {
+	public Evento[] get_events(String loginOrganizador) {
 		// TODO - implement Event_Controller.get_events
 		throw new UnsupportedOperationException();
 	}
