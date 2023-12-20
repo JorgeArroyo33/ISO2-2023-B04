@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>Server</artifactId>
+    <groupId>ISO-2023-B04</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
 
   <groupId>ISO-2023-B04</groupId>
-  <artifactId>Server</artifactId>
+  <artifactId>Server_Eventos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>Server</name>
+  <name>Server_Eventos</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -52,10 +57,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-	  <module>Server_Cursos</module>
-	  <module>Server_Asistencia</module>
-	  <module>Server_Encuestas_Calidad</module>
-    <module>Server_Eventos</module>
-  </modules>
 </project>
