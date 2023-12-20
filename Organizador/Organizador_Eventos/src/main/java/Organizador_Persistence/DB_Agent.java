@@ -1,4 +1,4 @@
-package Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Persistence;
+package Organizador.Organizador_Encuestas_Calidad.Organizador_Persistence;
 
 public class DB_Agent {
 
