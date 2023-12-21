@@ -1,5 +1,7 @@
 package Servidor.Server_Encuestas_Calidad.Server_Domain;
 
+/*Testing realizado con exito*/
+
 public class Encuesta_Calidad_Controller {
 
 	/**

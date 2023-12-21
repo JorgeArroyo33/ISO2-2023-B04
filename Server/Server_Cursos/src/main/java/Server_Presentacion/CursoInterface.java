@@ -1,5 +1,7 @@
 package Servidor.Server_Cursos.Server_Presentacion;
 
+/*Testing realizado con exito*/
+
 import Servidor.Server_Cursos.Server_Domain.*;
 
 public class CursoInterface {

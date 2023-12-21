@@ -1,5 +1,7 @@
 package Servidor.Server_Encuestas_Calidad.Server_Presentacion;
 
+/*Testing realizado con exito*/
+
 public class EncuestaCalidadInterface {
 
 	/**

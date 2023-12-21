@@ -1,5 +1,7 @@
 package Servidor.Server_Cursos.Server_Domain;
 
+/*Testing realizado con exito*/
+
 public class Curso_Controller {
 
 	/**

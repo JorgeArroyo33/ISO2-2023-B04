@@ -1,5 +1,7 @@
 package Servidor.Server_Eventos.Server_Presentacion;
 
+/*Testing realizado con exito*/
+
 import Organizador.Organizador_Eventos.Organizador_Domain.*;
 import Servidor.Server_Eventos.Server_Domain.*;
 

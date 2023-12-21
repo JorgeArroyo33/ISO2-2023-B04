@@ -1,6 +1,8 @@
 package Servidor.Server_Cursos.Server_Domain;
 
-import Todos_Usuarios.Inicio_Sesión.Servidor.Server_Domain.*;
+/*Testing realizado con exito*/
+
+import Todos_Usuarios.Inicio_Sesiï¿½n.Servidor.Server_Domain.*;
 
 public class Curso {
 
