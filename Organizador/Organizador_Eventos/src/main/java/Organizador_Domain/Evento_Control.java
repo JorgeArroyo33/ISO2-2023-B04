@@ -1,7 +1,9 @@
 package Gestionar_Eventos.Organizador.Organizador_Eventos.Organizador_Domain;
 
+/**Testing realizado**/
+
 import Gestionar_Eventos.Servidor.Server_Eventos.Server_Domain.*;
-import Inicio_Sesión.Servidor.Server_Domain.*;
+import Inicio_Sesiï¿½n.Servidor.Server_Domain.*;
 
 public class Evento_Control {
 

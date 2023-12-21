@@ -1,5 +1,7 @@
 package Organizador.Organizador_Certificado_Asistencia.Organizador_Domain;
 
+/**Testing realizado**/
+
 public class Certificado_Control {
 
 	/**
