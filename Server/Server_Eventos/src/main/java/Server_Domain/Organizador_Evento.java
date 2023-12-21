@@ -1,5 +1,7 @@
 package Servidor.Server_Eventos.Server_Domain;
 
+/*Testing realizado con exito*/
+
 public class Organizador_Evento {
 
 	private Evento[] eventosAbiertos;

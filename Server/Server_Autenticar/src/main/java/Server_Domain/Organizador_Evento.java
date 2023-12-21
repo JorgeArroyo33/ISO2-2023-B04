@@ -1,4 +1,6 @@
-package Inicio_Sesión.Servidor.Server_Domain;
+package Inicio_Sesiï¿½n.Servidor.Server_Domain;
+
+/*Testing realizado con exito*/
 
 public class Organizador_Evento extends Usuario {
 }

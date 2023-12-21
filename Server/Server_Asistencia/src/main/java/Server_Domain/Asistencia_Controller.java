@@ -1,5 +1,7 @@
 package Servidor.Server_Asistencia.Server_Domain;
 
+/*Testing realizado con exito*/
+
 public class Asistencia_Controller {
 
 	/**
