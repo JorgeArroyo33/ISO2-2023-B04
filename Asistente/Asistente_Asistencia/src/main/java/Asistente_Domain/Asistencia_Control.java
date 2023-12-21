@@ -1,5 +1,7 @@
 package Asistente.Asistente_Asistencia.Asistente_Domain;
 
+/**Testing realizado**/
+
 public class Asistencia_Control {
 
 	/**
