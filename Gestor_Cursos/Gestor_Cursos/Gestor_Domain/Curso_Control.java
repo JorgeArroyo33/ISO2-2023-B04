@@ -1,6 +1,7 @@
 
 package Gestor.Gestor_Cursos.Gestor_Domain;
 
+/**Testing realizado**/
 
 public class Curso_Control {
 
